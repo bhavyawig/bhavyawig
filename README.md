@@ -7,6 +7,7 @@
     Ask me about Competitive Programming and Linux Systems.<br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;
   </em>  
 </p>
+
 ---
 
 
