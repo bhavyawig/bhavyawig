@@ -19,12 +19,26 @@
 
 ---
 
+<br>
+
 🏆 <b> Trophies </b>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhavyawig)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
+<br>
+
+## ⚡ Technologies
+
+### Language :
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C#-purple?style=flat-square&logo=c#)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
 
