@@ -1,11 +1,14 @@
 <h3>Salut 👀</h3>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 <h3> About Me </h3>
-I am a sophomore undergraduate student from Jaypee Institute of Information Technology, Noida.
-Ask me about Competitive Programming and Linux Systems.
+<p>
+  <em>
+    I am a sophomore undergraduate student from <a href="https://www.jiit.ac.in/"> <b>Jaypee Institute of Information Technology</b>, Noida</a>. <br>
+    Ask me about Competitive Programming and Linux Systems.<br> Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;
+  </em>  
+</p>
+---
 
-Strong eye for detail and tenacity to never quit on something until it is absolutely perfect.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhavyawig)](https://github.com/ryo-ma/github-profile-trophy)
 
