@@ -40,6 +40,34 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
+---
+
+### 🧑‍💻 Developer/Forums : 
+
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+---
+
+### GitHub Analytics
+
+![GitHub metrics](https://metrics.lecoq.io/bhavyawig)
+
+---
+
+
+<h2>📫 Reach out to me on</h2>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wigbhavya/)](https://www.linkedin.com/in/wigbhavya/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wigbhavya12@gmail.com)](mailto:wigbhavya12@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@wigbhavya12)](https://medium.com/@wigbhavya12)
+
+---
+
+
+
 
 
 
