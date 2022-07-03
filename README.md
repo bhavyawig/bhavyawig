@@ -13,19 +13,7 @@
 ---
 
 
-📈 <b>My Github Stats: </b>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyawig&show_icons=true&count_private=true&theme=dracula)
-
----
-
-<br>
-
-🏆 <b> Trophies </b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhavyawig)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 <br>
 
