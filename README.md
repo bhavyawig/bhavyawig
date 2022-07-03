@@ -52,7 +52,7 @@
 
 ### GitHub Analytics
 
-![GitHub metrics](https://metrics.lecoq.io/bhavyawig)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhavyawig)
 
 ---
 
