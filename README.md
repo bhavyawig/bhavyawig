@@ -1,4 +1,3 @@
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 <h3>Salut 👀</h3>
 
 ---
@@ -36,7 +35,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=C#)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
